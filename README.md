@@ -17,7 +17,7 @@ I usually build:
 
 Landing Pages, Portfolio websites, Business websites, Educational Websites, Blogs Websites, Marketing websites, Real Estate Websites, E-Commerce Websites, Matrimonial Websites, Dashboards, Graphs, Forms, and much more</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farzan0346" alt="subhan-tahir" /></a> </p>
+<p align="left"> <a href="https://github.com/Farzan0346/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farzan0346" alt="subhan-tahir" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
