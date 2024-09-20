@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Subhan Tahir👋</h1>
+<h1 align="center">Hi , I'm Farzan Ashraf👋</h1>
 <h3 align="center">🎯 Front-end Development Expert 🎯 React Js Expert 🎯 JavaScript </h3>
 <p align="left">👷 Intermediate in Computer Science from Liaquat College<br />
 🔭 Front-end Developer<br />
