@@ -1,30 +1,40 @@
-<h1 align="center">Hi , I'm Farzan Ashraf👋</h1>
-<h3 align="center">🎯 Front-end Development Expert 🎯 React Js Expert 🎯 JavaScript </h3>
-<p align="left">👷 Intermediate in Computer Science from Liaquat College<br />
-🔭 Front-end Developer<br />
-🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br />
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="250"/ >
-  <br />
-  <br />
-🎯 FrontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
-🌟 Trusted 2+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development.</p>
 
-<p>Hello, I am Subhan Tahir, A Frontend Developer using React Js as my core skill and now transitioning towards web development. I am doing Frontend Development from past 2 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:</p>
 
-⭐️ HTML5 ⭐️ CSS3 ⭐ ⭐️ Bootstrap ⭐️ JavaScript ⭐️ ES6 ⭐️ React JS  ⭐️ fetch API ⭐️ Custom Hooks development ⭐️ Axios
+### 👋 Hey there! I'm **Farzan Ashraf**  
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-I usually build:
+🌟 **Frontend Developer | 2 Years Experience**
 
-Landing Pages, Portfolio websites, Business websites, Educational Websites, Blogs Websites, Marketing websites, Real Estate Websites, E-Commerce Websites, Matrimonial Websites, Dashboards, Graphs, Forms, and much more</p>
+I'm a passionate frontend developer specializing in creating visually appealing and user-friendly web applications. Over the past 2 years, I’ve worked on **e-commerce, real estate**, and **dashboard** projects, delivering seamless and responsive designs.
 
-<p align="left"> <a href="https://github.com/Farzan0346/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farzan0346" alt="subhan-tahir" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhan-tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhan-tahir" height="30" width="40" /></a>
-</p>
+### 🛠️ **Tech Stack & Skills**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Languages**:  
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farzan0346&show_icons=true&locale=en&layout=compact" alt="subhan-tahir" /></p>
+- **Frameworks & Libraries**:  
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- **Tools & Techniques**:  
+  ![Framer Motion Badge](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+---
+
+### 🏆 **GitHub Stats**
+![Farzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan0346&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan0346&layout=compact&theme=radical)
+
+---
+
+### 🔗 **Connect with me**
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzanashraf)
+
+---
