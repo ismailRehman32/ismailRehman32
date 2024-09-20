@@ -5,8 +5,8 @@
 🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br />
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="250"/ >
   <br />
-  <br /
-🎯 Fr >ontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
+  <br />
+🎯 FrontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
 🌟 Trusted 2+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development.</p>
 
 <p>Hello, I am Subhan Tahir, A Frontend Developer using React Js as my core skill and now transitioning towards web development. I am doing Frontend Development from past 2 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:</p>
@@ -17,7 +17,7 @@ I usually build:
 
 Landing Pages, Portfolio websites, Business websites, Educational Websites, Blogs Websites, Marketing websites, Real Estate Websites, E-Commerce Websites, Matrimonial Websites, Dashboards, Graphs, Forms, and much more</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhan-tahir" alt="subhan-tahir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farzan0346" alt="subhan-tahir" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
