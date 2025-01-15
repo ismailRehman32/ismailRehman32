@@ -28,8 +28,8 @@ I'm a passionate frontend developer specializing in creating visually appealing 
 ---
 
 ### 🏆 **GitHub Stats**
-![Farzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan0346&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan0346&layout=compact&theme=radical)
+![Farzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailRehman32&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailRehman32&layout=compact&theme=radical)
 
 ---
 
